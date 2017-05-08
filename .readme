@@ -1,0 +1,7 @@
+Bare-bones example implementation of a floating status bar widget.
+
+Displays status messages from a queue (so, for example, you can inform your webpage visitor of the progress of ajax tasks on a page.)
+
+Contains some features for managing the message queue.
+
+Current implementation is borrowed from some UI work I did for a past client and would require some case-specific modifications to integrate into an existing project. Ideally a future revision will be more portable, hopefully even plug-and-play.
