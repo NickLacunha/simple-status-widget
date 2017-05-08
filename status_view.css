@@ -1,0 +1,20 @@
+.status-view{
+    display:none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    padding: 2px 2px 2px 10px;
+    height: 25px;
+    width: 275px;
+    background: #000055;
+    opacity: .45;
+    
+    border-radius: 15px 0px 0px 0px;
+}
+
+.status-view p {
+    color: #DDDDDD;
+    opacity: 1;
+    font-family: proxima-nova;
+    font-weight: 400;
+}
